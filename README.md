@@ -232,9 +232,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
+- GitHub: https://github.com/jarvis232
+- LinkedIn: www.linkedin.com/in/abhishek-sharma-525a92233
 ## 🙏 Acknowledgments
 
 - Built with React and Tailwind CSS
